@@ -122,4 +122,4 @@ C. Amazon EBS data is automatically backed up to tape.
 
 D. Data stored on Amazon  EBS is automatically replicated within an Availability Zone.
 
-Answer: [ B ] , [ D]
+Answer: [ B ] , [ C]
